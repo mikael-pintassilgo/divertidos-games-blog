@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Technology-Stack"
 date: 2024-11-20
 ---
