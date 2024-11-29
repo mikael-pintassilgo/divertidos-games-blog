@@ -4,7 +4,7 @@ title: "Info About Game Mechanics"
 date: 2024-11-29
 ---
 
-* ()[https://www.researchgate.net/publication/315114570_Game_Mechanics_for_Cooperative_Games]
+* https://www.researchgate.net/publication/315114570_Game_Mechanics_for_Cooperative_Games
 * https://www.squidi.net/three/index.php
 * https://tvtropes.org/pmwiki/pmwiki.php/Main/VideogameTropes
 * http://www.designersnotebook.com/Design_Resources/No_Twinkie_Database/no_twinkie_database.htm
