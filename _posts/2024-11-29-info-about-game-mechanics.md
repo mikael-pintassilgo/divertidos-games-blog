@@ -15,6 +15,8 @@ In addition:
 * https://gamedev.stackexchange.com/questions/9786/game-mechanics-patterns-database
 * https://gamedev.stackexchange.com/questions/3297/a-list-of-game-mechanics 
 * Book “Game Mechanics: Advanced Game Design”: https://books.google.pt/books?hl=ru&lr=&id=_Azio0txIdAC&oi=fnd&pg=PR7&dq=game+mechanics+patterns&ots=RqiETJ4-YM&sig=LYkqGJHnS-Tiply-BRoNJc1yn28&redir_esc=y#v=onepage&q&f=false
+* https://www.gameuidatabase.com/index.php
+  
 
 
 
